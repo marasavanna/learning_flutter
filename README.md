@@ -1,6 +1,6 @@
 # learning_flutter
 
-A new Flutter application.
+Includes different tiny Flutter projects stored in different branched that have helped me throught the learning process
 
 ## Getting Started
 
