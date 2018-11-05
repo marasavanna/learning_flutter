@@ -3,6 +3,7 @@
 Includes different tiny Flutter projects stored in different branches that have helped me throught the learning process
 
 master -list of random names that can be added to a favorites screen
+
 cards-flutter - list of cards containig image+title that can increase dynamically
 
 ## Getting Started
